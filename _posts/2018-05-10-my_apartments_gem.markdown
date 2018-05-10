@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My Apartments Gem"
-date:       2018-05-10 16:07:57 +0000
+date:       2018-05-10 12:08:00 -0400
 permalink:  my_apartments_gem
 ---
 
