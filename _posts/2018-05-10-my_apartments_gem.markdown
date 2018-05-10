@@ -17,11 +17,11 @@ This experience was nice in the sense that when I started this project, I did no
 And now, a few words about the flow of the gem:
 
 The gem is invoked from ./bin/apartments
-All object classes are accessed via the module Apartments,  which requires the environment.
-An instance of CLI is created, and the call method is called
-The (CLI instance) call method creates an instance of Scraper, and calls the (Scraper instance) method make_apartments. The page is scraped into an array, and from each item in this array, an apartment object is being built and put in the (Apartment class) @@all array. 
-At this point, control returns to the call method. The user is welcomed to the NY listing, and is presented with the latest listing of 120 apartments in the NY area.
-The user can recursively choose an apartment to look at, or exit.
+* All object classes are accessed via the module Apartments,  which requires the environment.
+* An instance of CLI is created, and the call method is called
+* The (CLI instance) call method creates an instance of Scraper, and calls the (Scraper instance) method make_apartments. The page is scraped into an array, and from each item in this array, an apartment object is being built and put in the (Apartment class) @@all array. 
+* At this point, control returns to the call method. The user is welcomed to the NY listing, and is presented with the latest listing of 120 apartments in the NY area.
+* The user can recursively choose an apartment to look at, or exit.
  
 
 The content of your blog post goes here.
