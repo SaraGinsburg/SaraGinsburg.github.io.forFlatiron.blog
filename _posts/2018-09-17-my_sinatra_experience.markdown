@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "My Sinatra Experience![](http://)"
+title:      "My Sinatra Experience!!"
 date:       2018-09-17 04:00:30 -0400
 permalink:  my_sinatra_experience
 ---
