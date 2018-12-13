@@ -21,41 +21,26 @@ Model associations
 
 *Users* 
 * have many subjects,
-* 
 * have many assignments through subjects,
-* 
-* have many students through subjects
-* 	
+* have many students through subject 	
 	
 *Students*	
 * have many  assignments  through subjects,
-* 
 * have many  users  through  subjects,
-* 
 * have many  students_subjects,
-* 
 * have many  subjects through   students_subjects,
-* 
 * have many  students_assignments,
-* 
-* have many  assignments through   students_assignments
-* 
+* have many  assignments through   students_assignment 
 
 *Subject*
 * belongs to user,
-* 
 * has many assignments,
-* 
 * has many students_subjects ,
-* 
 * has many students through students_subjects
-* 
 
 *Assignment*
 * has many students_assignments,
-* 
 * has many students through students_assignments
-* 
 
 Teachers and students can login with a password, and bcrypt will authenticate their credentials. Teachers also have the option of logging in   through google.
 
