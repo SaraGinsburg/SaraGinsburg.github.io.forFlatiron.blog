@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My Rails Project"
-date:       2018-12-13 23:39:38 +0000
+date:       2018-12-13 18:39:39 -0500
 permalink:  my_rails_project
 ---
 
@@ -15,7 +15,7 @@ Teachers can add assignments, see students enrolled in their classes and obtain 
 Students can see assignments listing for the courses that they are taking. Students can submit a selected assignment.
 
 
-I created models for users, students, subject and assignments.
+I created models for users, students, subjects and assignments.
 
 Model associations
 
