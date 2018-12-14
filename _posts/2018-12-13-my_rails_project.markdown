@@ -32,7 +32,7 @@ Model associations
 * have many  students_assignments, 
 * have many  assignments through   students_assignment  
 
-*Subject *  
+*Subject   *    
 * belongs to user, 
 * has many assignments,
 * has many students_subjects , 
