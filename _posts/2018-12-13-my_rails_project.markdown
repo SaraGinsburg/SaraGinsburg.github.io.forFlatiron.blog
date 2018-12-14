@@ -32,11 +32,6 @@ Model associations
 * have many  students_assignments, 
 * have many  assignments through   students_assignment     
 
-*Subject*    
-* belongs to user, 
-* has many assignments,
-* has many students_subjects , 
-* has many students through students_subjects 
 
 *Assignment*  
 * has many students_assignments,   
