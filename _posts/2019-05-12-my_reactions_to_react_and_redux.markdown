@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My reactions to React and Redux"
-date:       2019-05-13 00:14:32 +0000
+date:       2019-05-12 20:14:33 -0400
 permalink:  my_reactions_to_react_and_redux
 ---
 
