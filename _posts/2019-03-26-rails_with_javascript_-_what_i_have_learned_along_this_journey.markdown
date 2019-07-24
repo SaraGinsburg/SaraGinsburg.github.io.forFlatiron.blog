@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails with JavaScript - what I have learned along this journey...."
-date:       2019-03-26 04:52:59 +0000
+date:       2019-03-26 00:53:00 -0400
 permalink:  rails_with_javascript_-_what_i_have_learned_along_this_journey
 ---
 
