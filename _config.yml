@@ -1,15 +1,14 @@
 # Site settings
-title: Learning via Learn
+author: Sara Ginsburg
+title: My Reactions to React and Redux
 header-img: img/home-bg.png
 email: sara.ginsburg.ny@gmail.com
-copyright_name: SaraGinsburg
+copyright_name: Sara Ginsburg
 description: > # this means to ignore newlines until "baseurl:"
-  some notes about the CLI gem 
+  some notes about the React/Redux project
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  SaraGinsburg
-learn_profile: SaraGinsburg
-email_username: sara.ginsburg.ny@gmail.com
 
 # Build settings
 markdown: kramdown
