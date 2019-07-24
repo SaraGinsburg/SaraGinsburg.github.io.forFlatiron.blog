@@ -19,7 +19,7 @@ Also, included in this project is a Milestone tracker , for children and parents
 The interesting part of working on this project is, that in the beginning I worked and studied, and did not see this 'coming together',  but then, slowly as you trek ahead, and solve one issue, and then another, it becomes easier. 
 
 What fueled me while going ahead, was the feeling that all of a sudden, these tools are more easily at my disposal and just like with a new acquired language, I can express myself more comfotably. Another thing that really propelled me forward, was the 'big picture', the idea behind this project.
-And, yes, I would like to see families reversing the trend of siblings rivalry, and maybe this can help....
+And, yes, I would like to see families reversing the trend of siblings rivalry, perhaps  this app can help....
 
 Lastly, I am pleased to  say that the instructors for this part of the course, Howard and Annable, were really very good, both in well explaining the material and by making themselves available for guidance.
 
